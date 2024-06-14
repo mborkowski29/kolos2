@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kolos2.props" />
+</Project>
